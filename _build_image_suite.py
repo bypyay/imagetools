@@ -426,7 +426,7 @@ def make_header(root_rel, page_title, page_desc, canonical_url):
 <meta property="og:url" content="{canonical_url}">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" href="{root_rel}assets/css/style.css">
+<link rel="stylesheet" href="{root_rel}assets/css/style.css?v=2">
 </head>
 <body>
 <header class="site-header">
